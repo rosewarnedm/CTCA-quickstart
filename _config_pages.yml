@@ -20,6 +20,12 @@ footer_content: >-
   CTCA Quick-Start Guide &mdash; AI-generated content requires expert review before clinical use.
   Values marked &lt;&lt;like this&gt;&gt; must be independently verified.
 
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+
 callouts_level: quiet
 callouts:
   note:
